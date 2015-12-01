@@ -8,11 +8,11 @@ Após pesquisar o assunto sobre o assunto descobri que a ferramenta oficial do G
 Alguns exemplos de gráficos podem ser visualizados aqui. A implementação pode ser vista neste link e uma apresentação interessante aqui.
 
 **Pontos Positivos**
-*Documentação
-*API Simples
-*Customizável
-*Design Responsivo
-*Interativo
+* Documentação
+* API Simples
+* Customizável
+* Design Responsivo
+* Interativo
 
 **Pontos Negativos**
-*Necessidade de Conectividade
+* Necessidade de Conectividade
