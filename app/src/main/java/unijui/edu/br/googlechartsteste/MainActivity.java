@@ -23,6 +23,8 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    //Teste de implementação do Google Charts no Android.
+
     private final String TAG = getClass().getSimpleName();
 
     public static final String ASSET_PATH = "file:///android_asset/";
