@@ -1,5 +1,4 @@
 # GoogleChartsTeste
-Teste de implementação com o Google Charts no Android.
 
 **Google Charts**
 
