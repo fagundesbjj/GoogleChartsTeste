@@ -1,6 +1,6 @@
 # GoogleChartsTeste
 
-**Google Charts**
+**Google Charts** :neckbeard:
 
 Após pesquisar o assunto sobre o assunto descobri que a ferramenta oficial do Google para criação de Gráficos é o [Google Charts](https://developers.google.com/chart/). Para utilizar estes gráficos no Android é necessário o uso de uma Webview.
 
